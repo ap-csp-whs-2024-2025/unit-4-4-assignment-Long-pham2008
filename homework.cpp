@@ -6,14 +6,11 @@ int main()
     // Complete the homework problems here
     
     // Problem 1
-    
-    
-    // Problem 2
-    
-    
-    // Problem 3
-    
-    
-    
+    int x = 25;
+    int y = 3;
+
+    // Operations 
+    std::cout << "X + y = " << x + y << std::endl;
+
     return 0;
 }
